@@ -1,5 +1,5 @@
-Changelog
-=========
+Changelogs
+==========
 
 These are all the changes in Lektor Disqus Comments
 since the first public release.
